@@ -26,17 +26,16 @@ XD Share Url:
 
 https://xd.adobe.com/view/ddedba7b-82d4-4a58-b3b5-613b50d6c161-88be/
 ## Features
-
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
  
 ### Existing Features
-- Feature 1 - allows users X to achieve Y, by having them fill out Z
-- ...
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+- Home Page: Shows the Page of the product for the user to buy or look at
+- Contact Us: A Page where the user can contact us or report a problem regarding the website
+- Checkout Page: Where user can check out their product after selecting it
+- Game Ad: Where user get to play the game to earn some coins for them to get discounted prices
 
 ### Features Left to Implement
-- Another feature idea
+- Item Purchase Page: To choose what type of the item you want to put in cart or checkout
+- Profile Page: To check available discount vouchers and edit profile settings
 
 ## Technologies Used
 We only used HTML, CSS and Javascript.
