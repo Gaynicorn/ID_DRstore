@@ -20,8 +20,10 @@ This section is also where you would share links to any wireframes, mockups, dia
 These files should themselves either be included as a pdf file in the project itself (in an separate directory)
 Include the Adobe XD wireframe as a folder. You can include the XD share url.
 Links:
-![image](https://user-images.githubusercontent.com/86419457/154837436-26fff4fc-fe81-4b52-b72e-a27d55354528.png)
 
+![image](https://user-images.githubusercontent.com/86419457/154837489-fcbf8199-ac3d-4d29-a5fe-2d830112d0fa.png)
+![image](https://user-images.githubusercontent.com/86419457/154837471-93ec1e72-31a9-4186-90a5-8d8ae8b0e0ef.png)
+![image](https://user-images.githubusercontent.com/86419457/154837504-df2db3b5-b277-4216-991f-6d9e5911f670.png)
 
 ## Features
 
