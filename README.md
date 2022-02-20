@@ -6,14 +6,20 @@ Our website is an e-Commerce platform, that caters to customers buying and selli
  
 ## Design Process
  
-Provide us insights about your design process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+Insights:
+This website is for users who want to buy and types of items and goods online, especially during this covid pandemic where they can rarely leave the house to shop for items. This website can help those who are too lazy or busy to leave the house, and purchase what they want or need online in an instant efficiently and without hassle. This website is also for users who have suppliers or want to sell their own brand of goods, so they can use our platform to become a seller internationally. This website can help them become a seller not just in their own country, but across the globel as the platform reaches out to everyone on the internet. It is also a fast and efficient way for them to sell their items as they just have to post it on the platform and wait for interested buyers.
 
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
-- As a user type, I want to perform an action, so that I can achieve a goal.
+User Stories:
+- As a buyer, I want to be able to see the price of the item, so I know how much it is worth
+- As a buyer, I want to be able to see how the item looks like, so I know what I am purchasing
+- As a buyer, I want to be able to have discounts, so that I can save more money in my spending
+- As a seller, I want to be able to change the price of the item, so I can set it to what I want
 
 This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. 
 These files should themselves either be included as a pdf file in the project itself (in an separate directory)
-Include the Adobe XD wireframe as a folder. You can include the XD share url. 
+Include the Adobe XD wireframe as a folder. You can include the XD share url.
+Links:
+
 
 ## Features
 
