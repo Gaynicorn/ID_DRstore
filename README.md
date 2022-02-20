@@ -39,13 +39,10 @@ In addition, you may also use this section to discuss plans for additional featu
 - Another feature idea
 
 ## Technologies Used
-We only used HTML, CSS and Javascript
+We only used HTML, CSS and Javascript.
 
 
 ## Testing
-
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
-
 Test Scenarios:
 
 All of the scenarios has been shown in the testing video.
