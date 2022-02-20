@@ -20,7 +20,7 @@ Links:
 
 ![image](https://user-images.githubusercontent.com/86419457/154837489-fcbf8199-ac3d-4d29-a5fe-2d830112d0fa.png)
 ![image](https://user-images.githubusercontent.com/86419457/154837471-93ec1e72-31a9-4186-90a5-8d8ae8b0e0ef.png)
-![image](https://user-images.githubusercontent.com/86419457/154837504-df2db3b5-b277-4216-991f-6d9e5911f670.png)
+![image](https://user-images.githubusercontent.com/86419457/154851662-5ea0c08e-ca58-48fe-92a2-acd38236c1b5.png)
 
 XD Share Url:
 
