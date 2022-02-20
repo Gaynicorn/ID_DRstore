@@ -1,6 +1,6 @@
-# Your Project's Name
+# DRstore
 
-One or two paragraphs providing an overview of your project. Tell us about your project.
+Our website is an e-Commerce platform, that caters to customers buying and selling goods on the platform. Our game on that platform is to allow customers a chance to win discount vouchers for themselves to use when purchasing items by playing the game.
 
 Essentially, this part is your sales pitch.
  
