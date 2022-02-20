@@ -16,8 +16,6 @@ User Stories:
 - As a buyer, I want to be able to have discounts, so that I can save more money in my spending
 - As a seller, I want to be able to change the price of the item, so I can set it to what I want
 
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. 
-These files should themselves either be included as a pdf file in the project itself (in an separate directory)
 Include the Adobe XD wireframe as a folder. You can include the XD share url.
 Links:
 
@@ -25,6 +23,9 @@ Links:
 ![image](https://user-images.githubusercontent.com/86419457/154837471-93ec1e72-31a9-4186-90a5-8d8ae8b0e0ef.png)
 ![image](https://user-images.githubusercontent.com/86419457/154837504-df2db3b5-b277-4216-991f-6d9e5911f670.png)
 
+XD Share Url:
+
+https://xd.adobe.com/view/ddedba7b-82d4-4a58-b3b5-613b50d6c161-88be/
 ## Features
 
 In this section, you should go over the different parts of your project, and describe each in a sentence or so.
