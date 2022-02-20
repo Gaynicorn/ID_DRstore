@@ -7,6 +7,7 @@ Our website is an e-Commerce platform, that caters to customers buying and selli
 ## Design Process
  
 Insights:
+
 This website is for users who want to buy and types of items and goods online, especially during this covid pandemic where they can rarely leave the house to shop for items. This website can help those who are too lazy or busy to leave the house, and purchase what they want or need online in an instant efficiently and without hassle. This website is also for users who have suppliers or want to sell their own brand of goods, so they can use our platform to become a seller internationally. This website can help them become a seller not just in their own country, but across the globel as the platform reaches out to everyone on the internet. It is also a fast and efficient way for them to sell their items as they just have to post it on the platform and wait for interested buyers.
 
 User Stories:
