@@ -55,11 +55,19 @@ If this section grows too long, you may want to split it off into a separate fil
 ## Credits
 
 ### Content
-- The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
 
 ### Media
-- The photos used in this site were obtained from ...
+- https://www.ubuy.com.sg/productimg/?image=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvNjFURzFMM0RWMUwuX0FDX1NMMTUwMF8uanBn.jpg
+- https://www.toysrus.com.sg/dw/image/v2/BDGJ_PRD/on/demandware.static/-/Sites-master-catalog-toysrus/default/dw527d973c/6/a/6/9/6a69628460dbe275d9afc6793c446f4dff83417e_131493_i1.png?sw=500&sh=500
+- https://www.narscosmetics.eu/dw/image/v2/BCMQ_PRD/on/demandware.static/-/Sites-itemmaster_NARS/default/dwa79af858/hi-res/NARS_FA19_Lipstick_Soldier_LPS_Boukhara_Matte_GLBL_B_square.jpg?sw=856&sh=750&sm=fit
+- https://www.ikea.com/sg/en/images/products/ekedalen-extendable-table-dark-brown__0736963_pe740827_s5.jpg
+- https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/352683_XL1_20201127.jpg
+- https://ae01.alicdn.com/kf/H498906dead4941b985aa549d799fea410/Logitech-G-PRO-X-SUPERLIGHT-G-PRO-GPW-Pink-Wireless-Gaming-Mouse-25K-HERO-Lightweight-Mechanical.jpg_Q90.jpg_.webp
+- https://content.rolex.com/dam/2021/upright-bba-with-shadow/m126613lb-0002.png?impolicy=v6-upright&imwidth=270
+- https://cdn.shopify.com/s/files/1/0099/1870/9856/products/ER1468-LAM.jpg?v=1627889779
+- https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone11-select-2019-family?wid=882&hei=1058&fmt=jpeg&qlt=80&.v=1567022175704
+- https://ih1.redbubble.net/image.1774205590.9111/ssrco,classic_tee,mens,101010:01c5ca27c6,front_alt,square_product,600x600.jpg
 
 ### Acknowledgements
 
-- I received inspiration for this project from X
+- https://youtu.be/eI9idPTT0c4
