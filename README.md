@@ -1,4 +1,5 @@
 # DRstore
+Github: https://github.com/Gaynicorn/ID_DRstore
 
 Our website is an e-Commerce platform, that caters to customers buying and selling goods on the platform. There are a wide variety of items customers can buy or sell on the platform, including food & beverages, jewellery, furniture, apparel and etcetera. Our game on that platform is to allow customers a chance to win discount vouchers for themselves to use when purchasing items by playing the game. 
 
