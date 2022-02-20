@@ -16,7 +16,6 @@ User Stories:
 - As a buyer, I want to be able to have discounts, so that I can save more money in my spending
 - As a seller, I want to be able to change the price of the item, so I can set it to what I want
 
-Include the Adobe XD wireframe as a folder. You can include the XD share url.
 Links:
 
 ![image](https://user-images.githubusercontent.com/86419457/154837489-fcbf8199-ac3d-4d29-a5fe-2d830112d0fa.png)
